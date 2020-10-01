@@ -6,7 +6,7 @@ ML/DL enthusiast. Having a good understanding of the basics of Machine Learning.
 - 🌱 I’m currently learning <strong>Deep Learning</strong>
 - 👯 I’m looking to collaborate on <strong>ML/DL Projects</strong>
 - 🤔 I’m looking for help with <strong>Deep Learning</strong>
-- 💬 Ask me about <strong>Machine Learning, Deep Learning, Web Development</strong>
+- 💬 Ask me about <strong>ML/DL, Web Development</strong>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashti-kamalesh-n-m) || [Instagram](https://www.instagram.com/shash.007/) || [Kaggle](https://www.kaggle.com/shashtikamaleshnm)
 - 😄 Pronouns: <strong>He/Him</strong>
 - ⚡ Fun fact: <strong>I love playing Cricket</strong>
