@@ -2,7 +2,7 @@
 
 ML/DL enthusiast. Having a good understanding of the basics of Machine Learning. Currently pursuing Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at the SRM Institute of Science and Technology. Looking forward to do more projects based on Machine Learning. Looking for oppurtunities and internships in the field of Data Science. Having a great amount of interest in Web Development.
 
-- 🔭 I’m currently working on <strong>ML/DL Projects</strong>
+- 🔭 I’m currently working on <strong>ML/DL projects</strong>
 - 🌱 I’m currently learning <strong>Deep Learning, Web Development</strong>
 - 👯 I’m looking to collaborate on <strong>ML/DL Projects</strong>
 - 🤔 I’m looking for help with <strong>Deep Learning</strong>
