@@ -28,6 +28,8 @@ ML/DL enthusiast. Having a good understanding of the basics of Machine Learning 
 <br />
 <br />
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shash3061.shash3061)
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shash3061&show_icons=true&theme=chartreuse-dark" />
 </a>
