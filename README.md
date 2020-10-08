@@ -12,6 +12,12 @@ ML/DL enthusiast. Having a good understanding of the basics of Machine Learning 
 - ⚡ Fun fact: <strong>I love playing Cricket</strong>
 
 
+
+<img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
+<img align="left" alt="CPP" width="26px" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
+<img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+<img align="left" alt="VisualStudio" width="26px" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg">
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shash3061&show_icons=true&theme=chartreuse-dark" />
 </a>
