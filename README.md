@@ -25,6 +25,7 @@ ML/DL enthusiast. Having a good understanding of the basics of Machine Learning 
 <img align="left" alt="Postgresql" width="26px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="left" alt="VisualStudio" width="26px" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg">
 <img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
+<img align="left" alt="Ubuntu" width="26px" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg">
 
 <br />
 <br />
