@@ -18,6 +18,7 @@ ML/DL enthusiast. Having a good understanding of the basics of Machine Learning 
 <img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
 <img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
 <img align="left" alt="HTML" width="26px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg">
+<img align="left" alt="CSS" width="26px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
 <img align="left" alt="Git" width="26px" src="https://devicon.dev/devicon.git/icons/git/git-original.svg">
 <img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="Postgresql" width="26px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
