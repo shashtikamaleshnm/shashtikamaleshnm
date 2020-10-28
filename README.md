@@ -31,7 +31,6 @@ ML/DL Enthusiast. Having a good understanding of the basics of Machine Learning 
 <br />
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shash3061.shash3061)
 
 
 <a href="#">
