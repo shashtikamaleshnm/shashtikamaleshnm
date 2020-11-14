@@ -24,11 +24,11 @@ ML/DL Enthusiast. Having a good understanding of the basics of Machine Learning 
 <img align="left" alt="Git" width="26px" src="https://devicon.dev/devicon.git/icons/git/git-original.svg">
 <img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="Postgresql" width="26px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="left" alt="Handlebars" width="26px" src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg">
 <img align="left" alt="VisualStudio" width="26px" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg">
 <img align="left" alt="Atom" width="26px" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg">
 <img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
 <img align="left" alt="Ubuntu" width="26px" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg">
-<img align="left" alt="Handlebars" width="26px" src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg">
 
 <br />
 <br />
