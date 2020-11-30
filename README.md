@@ -22,6 +22,7 @@ ML/DL Enthusiast. Having a good understanding of the basics of Machine Learning 
 <img align="left" alt="CSS" width="26px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
 <img align="left" alt="Bootstrap" width="26px" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg">
 <img align="left" alt="Handlebars" width="26px" src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg">
+<img align="left" alt="Heroku" width="26px" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg">
 <img align="left" alt="Git" width="26px" src="https://devicon.dev/devicon.git/icons/git/git-original.svg">
 <img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="Postgresql" width="26px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
