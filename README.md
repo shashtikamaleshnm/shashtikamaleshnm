@@ -18,6 +18,7 @@ ML/DL Enthusiast. Having a good understanding of the basics of Machine Learning 
 <img align="left" alt="CPP" width="26px" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
 <img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+<img align="left" alt="Node.js" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Flutter" width="26px" src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg">
 <img align="left" alt="HTML" width="26px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg">
 <img align="left" alt="CSS" width="26px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
