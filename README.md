@@ -20,7 +20,6 @@ ML/DL Enthusiast. Curious to learn new things. Having a good understanding of th
 <img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
 <img align="left" alt="Node.js" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="express" width="26px" src="https://devicon.dev/devicon.git/icons/express/express-original.svg">
-<img align="left" alt="React.js" width="26px" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg">
 <img align="left" alt="Mongodb" width="26px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="django" width="26px" src="https://devicon.dev/devicon.git/icons/django/django-original.svg">
 <img align="left" alt="Flutter" width="26px" src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg">
