@@ -18,6 +18,7 @@ ML/DL Enthusiast. Curious to learn new things. Having a good understanding of th
 <img align="left" alt="CPP" width="26px" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
 <img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+<img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img align="left" alt="Node.js" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="express" width="26px" src="https://devicon.dev/devicon.git/icons/express/express-original.svg">
 <img align="left" alt="Mongodb" width="26px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg">
