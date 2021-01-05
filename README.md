@@ -38,6 +38,10 @@ ML/DL Enthusiast. Curious to learn new things. Having a good understanding of th
 <img align="left" alt="Atom" width="26px" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg">
 <img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
 <img align="left" alt="Ubuntu" width="26px" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg">
+<img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+<img align="left" alt="Pytorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+<img align="left" alt="Opencv" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+<img align="left" alt="Flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 
 <br />
 <br />
