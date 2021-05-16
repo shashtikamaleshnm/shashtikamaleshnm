@@ -11,38 +11,6 @@ ML/DL Enthusiast. Curious to learn new things. Having a good understanding of th
 - 😄 Pronouns: <strong>He/Him</strong>
 - ⚡ Fun fact: <strong>I love playing Cricket</strong>
 
-
-
-## Languages and Tools: <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
-<img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
-<img align="left" alt="CPP" width="26px" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Python" width="26px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
-<img align="left" alt="Javascript" width="26px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
-<img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-<img align="left" alt="Node.js" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="express" width="26px" src="https://devicon.dev/devicon.git/icons/express/express-original.svg">
-<img align="left" alt="Mongodb" width="26px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg">
-<img align="left" alt="django" width="26px" src="https://devicon.dev/devicon.git/icons/django/django-original.svg">
-<img align="left" alt="Flutter" width="26px" src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg">
-<img align="left" alt="HTML" width="26px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg">
-<img align="left" alt="CSS" width="26px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg">
-<img align="left" alt="Bootstrap" width="26px" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg">
-<img align="left" alt="Handlebars" width="26px" src="https://devicon.dev/devicon.git/icons/handlebars/handlebars-original-wordmark.svg">
-<img align="left" alt="Heroku" width="26px" src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg">
-<img align="left" alt="Git" width="26px" src="https://devicon.dev/devicon.git/icons/git/git-original.svg">
-<img align="left" alt="MySQL" width="26px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg">
-<img align="left" alt="Postgresql" width="26px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
-<img align="left" alt="VisualStudio" width="26px" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg">
-<img align="left" alt="Vim" width="26px" src="https://devicon.dev/devicon.git/icons/vim/vim-plain.svg">
-<img align="left" alt="Pycharm" width="26px" src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-plain.svg">
-<img align="left" alt="Atom" width="26px" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg">
-<img align="left" alt="Linux" width="26px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
-<img align="left" alt="Ubuntu" width="26px" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg">
-<img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-<img align="left" alt="Pytorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-<img align="left" alt="Opencv" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-<img align="left" alt="Flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-
 <br />
 <br />
 <br />
