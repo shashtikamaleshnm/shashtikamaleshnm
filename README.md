@@ -11,12 +11,6 @@ ML/DL Enthusiast. Curious to learn new things. Having a good understanding of th
 - 😄 Pronouns: <strong>He/Him</strong>
 - ⚡ Fun fact: <strong>I love playing Cricket</strong>
 
-<br />
-<br />
-<br />
-<br />
-
-
 
 
 <a href="#">
