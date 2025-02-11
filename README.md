@@ -18,15 +18,3 @@ Whether it's building robust backend APIs, creating seamless front-end experienc
 
 
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashtikamaleshnm&show_icons=true&theme=chartreuse-dark" />
-</a>
-
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashtikamaleshnm" />
-</a>
-
-
-
-<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats</i>
