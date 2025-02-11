@@ -2,9 +2,6 @@
 <h2 align="center">Shashti Kamalesh | Software Engineer | Full-Stack Developer</h2>
 <h2 align="center">3+ Years of Building High-Performance, Scalable Applications</h2>
 
-ML/DL Enthusiast. Curious to learn new things. Having a good understanding of the basics of Machine Learning and Deep Learning. Currently pursuing Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at the SRM Institute of Science and Technology. Looking forward to do more projects based on Machine Learning and Deep Learning. Looking for oppurtunities and internships in the field of Data Science. Having a great amount of interest in the fields of Web Development and Mobile Application Development.
-
-
 I am a full-stack software engineer with a strong track record of delivering innovative and high-quality software solutions. With 3 years of experience working with curring-edge technologies like Java, Spring Boot, React.js and Microservices, I focus on crafting user-centric, scalable systems that make a significant impact.
 
 Whether it's building robust backend APIs, creating seamless front-end experiences, or deploying on cloud infrastructure, I do it all - and I do it with passion and precision. If you're looking for someone who thrives in a fast-paces environment, loves challenges, and is obsessed with writing clean, efficient code, you're in the right place.
