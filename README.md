@@ -1,8 +1,15 @@
-<h1 align="center">Hi there, I'm Shashti Kamalesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-<h3 align="center">Software Engineer</h3>
-<h3 align="center">I don't just code; I engineer solutions.</h3>
+<h1 align="center">I don't just code; I engineer solutions.</h1>
+<h2 align="center">Shashti Kamalesh | Software Engineer | Full-Stack Developer</h2>
+
+<!-- <h1 align="center">Hi there, I'm Shashti Kamalesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> -->
+<!-- <h2 align="center">I don't just code; I engineer solutions.</h2> -->
+<!-- <h3 align="center">Software Engineer</h3> -->
 
 ML/DL Enthusiast. Curious to learn new things. Having a good understanding of the basics of Machine Learning and Deep Learning. Currently pursuing Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at the SRM Institute of Science and Technology. Looking forward to do more projects based on Machine Learning and Deep Learning. Looking for oppurtunities and internships in the field of Data Science. Having a great amount of interest in the fields of Web Development and Mobile Application Development.
+
+
+
+
 
 - 🔭 I’m currently working on <strong>ML/DL Projects</strong>
 - 🌱 I’m currently learning <strong>Deep Learning, MERN Stack</strong>
