@@ -1,6 +1,12 @@
-<h1 align="center">I don't just code; I engineer solutions.</h1>
-<h2 align="center">Shashti Kamalesh | Software Engineer | Full-Stack Developer</h2>
-<h2 align="center">3+ Years of Building High-Performance, Scalable Applications</h2>
+<!-- <h1 align="center">I don't just code; I engineer solutions.</h1> -->
+<!-- <h2 align="center">Shashti Kamalesh | Software Engineer | Full-Stack Developer</h2> -->
+<!-- <h2 align="center">3+ Years of Building High-Performance, Scalable Applications</h2> -->
+
+# I don't just code; I engineer solutions.
+
+## Shashti Kamalesh | Software Engineer | Full-Stack Developer
+
+## 3+ years of Building High-Performance, Scalable Applications
 
 I am a full-stack software engineer with a strong track record of delivering innovative and high-quality software solutions. With 3 years of experience working with curring-edge technologies like Java, Spring Boot, React.js and Microservices, I focus on crafting user-centric, scalable systems that make a significant impact.
 
